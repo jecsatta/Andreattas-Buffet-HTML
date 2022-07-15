@@ -212,6 +212,7 @@
 }
 .home-primary {
   margin-bottom: var(--dl-space-space-threeunits);
+  text-decoration: none;
 }
 .home-gallery {
   width: 100%;
@@ -479,6 +480,7 @@
 .home-primary1 {
   border-color: var(--dl-color-scheme-white);
   margin-bottom: var(--dl-space-space-threeunits);
+  text-decoration: none;
 }
 .home-top-part {
   width: 100%;
