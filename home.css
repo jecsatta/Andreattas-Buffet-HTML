@@ -599,12 +599,22 @@
   .home-text04 {
     font-size: 48px;
   }
+  .home-container05 {
+    width: 640px;
+    flex-direction: row;
+  }
   .home-cards-container {
     align-items: center;
     flex-direction: column;
   }
+  .home-portofolio {
+    height: 1408px;
+  }
   .home-tab-selector-cards-container {
     grid-template-columns: 1fr;
+  }
+  .home-process {
+    height: 639px;
   }
   .home-top-part {
     align-items: center;
@@ -645,6 +655,20 @@
     height: 44px;
     position: static;
     align-self: center;
+  }
+  .home-image1 {
+    align-self: center;
+  }
+  .home-container05 {
+    width: 360px;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+  }
+  .home-container07 {
+    width: 357px;
+    align-items: center;
+    flex-direction: column;
   }
   .home-cards-container {
     align-items: center;
